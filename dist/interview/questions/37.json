@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>如果我们不创建内存池，是否有内存池提供给我们?</p>\n",
+    "answer": "<p>答:界面线程维护着自己的内存池，用户自己创建的数据线程，则需要创建该线程的内存池</p>\n",
+    "options": []
+}

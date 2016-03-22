@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>tableView 的重用机制？</p>\n",
+    "answer": "<p>UITableView 通过重用单元格来达到节省内存的目的: 通过为每个单元格指定一个重用标识符(reuseIdentifier),即指定了单元格的种类,以及当单元格滚出屏幕时,允许恢复单元格以便重用.对于不同种类的单元格使用不同的ID,对于简单的表格,一个标识符就够了.</p>\n",
+    "options": []
+}

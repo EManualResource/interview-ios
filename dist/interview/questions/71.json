@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>自动释放池是什么,如何工作</p>\n",
+    "answer": "<p>当您向一个对象发送一个autorelease消息时，Cocoa就会将该对象的一个引用放入到最新的自动释放.它仍然是个正当的对象，因此自动释放池定义的作用域内的其它对象可以向它发送消息。当程序执行到作用域结束的位置时，自动释放池就会被释放，池中的所有对象也就被释放。</p>\n",
+    "options": []
+}

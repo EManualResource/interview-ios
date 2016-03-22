@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>实现简单的表格显示需要设置UITableView的什么属性、实现什么协议？</p>\n",
+    "answer": "<p>实现简单的表格显示需要设置 UITableView 的 dataSource 和 delegate 属性，实现UITableViewDataSource 和 UITableViewDelegate 协议。</p>\n",
+    "options": []
+}

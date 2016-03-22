@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>列举几种进程的同步机制，并比较其优缺点?</p>\n",
+    "answer": "<p>原子操作  信号量机制    自旋锁    管程，会合，分布式系统</p>\n",
+    "options": []
+}

@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>谈谈对Block 的理解?并写出一个使用Block执行UIVew动画?</p>\n",
+    "answer": "<p>Block是可以获取其他函数局部变量的匿名函数，其不但方便开发，并且可以大幅提高应用的执行效率(多核心CPU可直接处理Block指令)</p>\n<p>[UIView transitionWithView:self.view</p>\n<p>duration:0.2</p>\n<p>options:UIViewAnimationOptionTransitionFlipFromLeft</p>\n<p>animations:^{ [[blueViewController view] removeFromSuperview]; [[self view] insertSubview:yellowViewController.view atIndex:0]; }</p>\n<p>completion:NULL];</p>\n",
+    "options": []
+}

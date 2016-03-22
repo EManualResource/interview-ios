@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>动画有基本类型有哪几种；表视图有哪几种基本样式?</p>\n",
+    "answer": "<p>动画有两种基本类型：隐式动画和显式动画。</p>\n",
+    "options": []
+}

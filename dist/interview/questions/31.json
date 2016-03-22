@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>什么是延迟加载?</p>\n",
+    "answer": "<p>懒汉模式，只在用到的时候才去初始化。</p>\n<p>也可以理解成延时加载。</p>\n<p>我觉得最好也最简单的一个列子就是tableView中图片的加载显示了。</p>\n<p>一个延时载，避免内存过高，一个异步加载，避免线程堵塞。</p>\n",
+    "options": []
+}

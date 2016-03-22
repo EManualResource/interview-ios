@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>代理的作用?</p>\n",
+    "answer": "<p>代理的目的是改变或传递控制链。允许一个类在某些特定时刻通知到其他类，而不需要获取到那些类的指针。可以减少框架复杂度。</p>\n<p>另外一点，代理可以理解为java中的回调监听机制的一种类似。</p>\n",
+    "options": []
+}

@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>类别和类扩展的区别?</p>\n",
+    "answer": "<p>category和extensions的不同在于 后者可以添加属性。另外后者添加的方法是必须要实现的。</p>\n<p>extensions可以认为是一个私有的Category。</p>\n",
+    "options": []
+}

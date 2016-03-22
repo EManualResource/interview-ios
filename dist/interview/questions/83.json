@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>什么是沙盒模型？哪些操作是属于私有api范畴?</p>\n",
+    "answer": "<p>某个iphone工程进行文件操作有此工程对应的指定的位置，不能逾越。</p>\n<p>iphone沙箱模型的有四个文件夹documents，tmp，app，Library，永久数据存储一般放documents文件夹，得到模拟器的路径的可使用NSHomeDirectory()方法。Nsuserdefaults保存的文件在tmp文件夹里。</p>\n",
+    "options": []
+}

@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>解析XML文件有哪几种方式？</p>\n",
+    "answer": "<p>以 DOM 方式解析 XML 文件；以 SAX 方式解析 XML 文件；</p>\n",
+    "options": []
+}

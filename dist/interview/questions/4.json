@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>写一个setter方法用于完成@property (nonatomic,retain)NSString <em>name,写一个setter方法用于完成@property(nonatomic，copy)NSString </em>name</p>\n",
+    "answer": "<ul>\n<li>(void) setName:(NSString*) str</li>\n</ul>\n<p>{</p>\n<p>[str retain];</p>\n<p>[name release];</p>\n<p>name = str;</p>\n<p>}</p>\n<ul>\n<li>(void)setName:(NSString *)str</li>\n</ul>\n<p>{</p>\n<p>id t = [str copy];</p>\n<p>[name release];</p>\n<p>name = t;</p>\n<p>}</p>\n",
+    "options": []
+}

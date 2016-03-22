@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>Objective-C的优缺点?</p>\n",
+    "answer": "<p>objc优点：</p>\n<p>1).  Cateogies</p>\n<p>2).  Posing</p>\n<p>3). 动态识别</p>\n<p>4).指标计算</p>\n<p>5).弹性讯息传递</p>\n<p>6).不是一个过度复杂的 C 衍生语言</p>\n<p>7).Objective-C 与 C++ 可混合编程</p>\n<p>objc缺点:</p>\n<p>1).不支援命名空间</p>\n<p>2).不支持运算符重载</p>\n<p>3).不支持多重继承</p>\n<p>4).使用动态运行时类型，所有的方法都是函数调用，所以很多编译时优化方法都用不到。（如内联函数等），性能低劣。</p>\n",
+    "options": []
+}

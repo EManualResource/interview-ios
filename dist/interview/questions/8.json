@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>Objective-C如何对内存管理的?</p>\n",
+    "answer": "<p>Objective-C的内存管理主要有三种方式ARC(自动引用计数)、MRC(手动内存计数)、autorelease(自动释放池)。</p>\n",
+    "options": []
+}

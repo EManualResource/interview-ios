@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>id 声明的对象有什么特性?</p>\n",
+    "answer": "<p>Id 声明的对象具有运行时的特性，即可以指向任意类型的objcetive-c的对象;</p>\n",
+    "options": []
+}

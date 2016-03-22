@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>xib文件的构成分为哪3个图标？都具有什么功能?</p>\n",
+    "answer": "<p>File’s Owner 是所有 nib 文件中的每个图标，它表示从磁盘加载 nib 文件的对象；</p>\n<p>First Responder 就是用户当前正在与之交互的对象；</p>\n<p>View 显示用户界面；完成用户交互；是 UIView 类或其子类。</p>\n",
+    "options": []
+}

@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>Core Foundation中提供了哪几种操作Socket的方法？</p>\n",
+    "answer": "<p>CFNetwork 、 CFSocket 和 BSD Socket 。</p>\n",
+    "options": []
+}

@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>使用AVAudioPlayer类调用哪个框架、使用步骤？</p>\n",
+    "answer": "<p>AVFoundation.framework</p>\n<p>步骤：配置 AVAudioPlayer 对象；</p>\n<p>实现 AVAudioPlayer 类的委托方法；</p>\n<p>控制 AVAudioPlayer 类的对象；</p>\n<p>监控音量水平；</p>\n<p>回放进度和拖拽播放。</p>\n",
+    "options": []
+}

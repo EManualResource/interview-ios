@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>在一个对象的方法里面：self.name= “object”；和 name =”object” 有什么不同吗?</p>\n",
+    "answer": "<p>self.name =”object”：会调用对象的setName()方法；</p>\n<p>name = “object”：会直接把object赋值给当前对象的name属性。</p>\n",
+    "options": []
+}

@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>如何对iOS设备进行性能测试?</p>\n",
+    "answer": "<p>Profile-&gt; Instruments -&gt;Time Profiler</p>\n",
+    "options": []
+}

@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>什么是推送消息?</p>\n",
+    "answer": "<p>推送通知更是一种技术。</p>\n<p>简单点就是客户端获取资源的一种手段。</p>\n<p>普通情况下，都是客户端主动的pull。</p>\n<p>推送则是服务器端主动push。 测试push的实现可以查看该博文。</p>\n",
+    "options": []
+}

@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>类NSObject的那些方法经常被使用?</p>\n",
+    "answer": "<p>NSObject是Objetive-C的基类，其由NSObject类及一系列协议构成。</p>\n<p>其中类方法alloc、class、 description 对象方法init、dealloc、– performSelector:withObject:afterDelay:等经常被使用</p>\n",
+    "options": []
+}

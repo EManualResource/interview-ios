@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>什么是NSManagedobjectContext?</p>\n",
+    "answer": "<p>NSManagedobjectContext对象负责应用和数据库之间的交互。</p>\n",
+    "options": []
+}

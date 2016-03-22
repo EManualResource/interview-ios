@@ -1,0 +1,17 @@
+{
+    "info": {
+        "name": "ios",
+        "name_cn": "iOS试题",
+        "md5": "71fc5dfa91baa65440f80d6740490337",
+        "icon_url": "http://emanualresource.github.io/resource/icons/ios.png",
+        "url": "http://emanualresource.github.io/interview-ios/dist/interview.zip",
+        "author": "EManual",
+        "homepage": "https://github.com/EManualResource/interview-ios",
+        "maintainers": [
+            {
+                "name": "Jayin Ton",
+                "email": "tonjayin@gmail.com"
+            }
+        ]
+    }
+}

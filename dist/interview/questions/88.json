@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>HTTP协议中，POST和GET的区别是什么？</p>\n",
+    "answer": "<p>1).GET 方法</p>\n<p>GET 方法提交数据不安全，数据置于请求行，客户端地址栏可见;</p>\n<p>GET 方法提交的数据大小有限</p>\n<p>GET 方法不可以设置书签</p>\n<p>2).POST 方法</p>\n<p>POST 方法提交数据安全，数据置于消息主体内，客户端不可见</p>\n<p>POST 方法提交的数据大小没有限制</p>\n<p>POST 方法可以设置书签</p>\n",
+    "options": []
+}

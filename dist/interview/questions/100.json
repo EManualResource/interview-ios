@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>有哪几种手势通知方法、写清楚方法名？</p>\n",
+    "answer": "<p>-(void)touchesBegan:(NSSet<em>)touchedwithEvent:(UIEvent</em>)event;</p>\n<p>-(void)touchesMoved:(NSSet<em>)touched withEvent:(UIEvent</em>)event;</p>\n<p>-(void)touchesEnded:(NSSet<em>)touchedwithEvent:(UIEvent</em>)event;</p>\n<p>-(void)touchesCanceled:(NSSet<em>)touchedwithEvent:(UIEvent</em>)event;</p>\n",
+    "options": []
+}

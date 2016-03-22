@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>readwrite，readonly，assign，retain，copy，nonatomic 属性的作用</p>\n",
+    "answer": "<p>@property是一个属性访问声明，扩号内支持以下几个属性：</p>\n<p>1).getter=getterName，setter=setterName，设置setter与 getter的方法名</p>\n<p>2).readwrite,readonly，设置可供访问级别</p>\n<p>2).assign，setter方法直接赋值，不进行任何retain操作，为了解决原类型与环循引用问题</p>\n<p>3).retain，setter方法对参数进行release旧值再retain新值，所有实现都是这个顺序(CC上有相关资料)</p>\n<p>4).copy，setter方法进行Copy操作，与retain处理流程一样，先旧值release，再 Copy出新的对象，retainCount为1。这是为了减少对上下文的依赖而引入的机制。</p>\n<p>5).nonatomic，非原子性访问，不加同步，多线程并发访问会提高性能。注意，如果不加此属性，则默认是两个访问方法都为原子型事务访问。锁被加到所属对象实例级。</p>\n",
+    "options": []
+}

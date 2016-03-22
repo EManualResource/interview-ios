@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>什么是coredata?</p>\n",
+    "answer": "<p>coredata是苹果提供一套数据保存框架，其基于SQlite</p>\n",
+    "options": []
+}

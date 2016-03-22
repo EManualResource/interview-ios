@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>方法和选择器有何不同?</p>\n",
+    "answer": "<p>selector是一个方法的名字，method是一个组合体，包含了名字和实现.</p>\n<p>详情可以看apple文档。</p>\n",
+    "options": []
+}

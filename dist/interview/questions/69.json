@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>死锁的处理</p>\n",
+    "answer": "<p>鸵鸟策略、预防策略、避免策略、检测与解除死锁</p>\n",
+    "options": []
+}

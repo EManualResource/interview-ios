@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>进程死锁的原因</p>\n",
+    "answer": "<p>资源竞争及进程推进顺序非法</p>\n",
+    "options": []
+}

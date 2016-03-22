@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>死锁的4个必要条件</p>\n",
+    "answer": "<p>互斥、请求保持、不可剥夺、环路</p>\n",
+    "options": []
+}

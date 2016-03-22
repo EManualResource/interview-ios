@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>写出上面代码的Block的定义?</p>\n",
+    "answer": "<p>typedef void(^animations) (void);</p>\n<p>typedef void(^completion) (BOOL finished);</p>\n",
+    "options": []
+}

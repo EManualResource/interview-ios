@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>原子(atomic)跟非原子(non-atomic)属性有什么区别?</p>\n",
+    "answer": "<p>1). atomic提供多线程安全。是防止在写未完成的时候被另外一个线程读取，造成数据错误</p>\n<p>2). non-atomic:在自己管理内存的环境中，解析的访问器保留并自动释放返回的值，如果指定了 nonatomic ，那么访问器只是简单地返回这个值。</p>\n",
+    "options": []
+}

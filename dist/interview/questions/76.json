@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>TCP和UDP的区别</p>\n",
+    "answer": "<p>TCP全称是Transmission Control Protocol，中文名为传输控制协议，它可以提供可靠的、面向连接的网络数据传递服务。传输控制协议主要包含下列任务和功能：</p>\n<ul>\n<li><p>确保IP数据报的成功传递。</p>\n</li>\n<li><p>对程序发送的大块数据进行分段和重组。</p>\n</li>\n<li><p>确保正确排序及按顺序传递分段的数据。</p>\n</li>\n<li><p>通过计算校验和，进行传输数据的完整性检查。</p>\n</li>\n</ul>\n<p>TCP提供的是面向连接的、可靠的数据流传输，而UDP提供的是非面向连接的、不可靠的数据流传输。</p>\n<p>简单的说，TCP注重数据安全，而UDP数据传输快点，但安全性一般</p>\n",
+    "options": []
+}

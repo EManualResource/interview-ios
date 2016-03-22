@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>iPhone OS主要提供了几种播放音频的方法？</p>\n",
+    "answer": "<p>SystemSound Services</p>\n<p>AVAudioPlayer 类</p>\n<p>Audio Queue Services</p>\n<p>OpenAL</p>\n",
+    "options": []
+}

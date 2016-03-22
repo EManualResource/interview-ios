@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>在iPhone应用中如何保存数据?</p>\n",
+    "answer": "<p>有以下几种保存机制：</p>\n<p>1).通过web服务，保存在服务器上</p>\n<p>2).通过NSCoder固化机制，将对象保存在文件中</p>\n<p>3).通过SQlite或CoreData保存在文件数据库中</p>\n",
+    "options": []
+}

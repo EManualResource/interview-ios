@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>试着使用+ beginAnimations:context:以及上述Block的定义，写出一个可以完成</p>\n",
+    "answer": "<ul>\n<li>(void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion NS_AVAILABLE_IOS(4_0);操作的函数执行部分</li>\n</ul>\n<p>答案：无</p>\n",
+    "options": []
+}

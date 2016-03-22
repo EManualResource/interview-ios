@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>在应用中可以创建多少autorelease对象，是否有限制?</p>\n",
+    "answer": "<p>答案：无</p>\n",
+    "options": []
+}

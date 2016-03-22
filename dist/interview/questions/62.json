@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>关键字volatile有什么含意?并给出三个不同的例子?</p>\n",
+    "answer": "<p>一个定义为 volatile的变量是说这变量可能会被意想不到地改变，这样，编译器就不会去假设这个变量的值了。精确地说就是，优化器在用到这个变量时必须每次都小心地重新读取这个变量的值，而不是使用保存在寄存器里的备份。</p>\n<p>下面是volatile变量的几个例子：</p>\n<p>并行设备的硬件寄存器（如：状态寄存器）</p>\n<p>一个中断服务子程序中会访问到的非自动变量(Non-automatic variables)</p>\n<p>多线程应用中被几个任务共享的变量</p>\n",
+    "options": []
+}

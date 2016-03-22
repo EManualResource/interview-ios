@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "ios",
+    "difficulty": "1",
+    "from": "http://www.jianshu.com/p/20f8d59eb8fb",
+    "description": "<p>做过的项目是否涉及网络访问功能，使用什么对象完成网络功能?</p>\n",
+    "answer": "<p>ASIHTTPRequest与NSURLConnection</p>\n",
+    "options": []
+}
